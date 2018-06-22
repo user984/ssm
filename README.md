@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 *  IDE - Intellij IDEA
-*  Java 8. This project will not compile with Java 7 or lower.
+*  Java 10. This project will not compile with Java 7 or lower.
 *  Maven for dependencies.
 *  I have not packaged the jars. Maven pulls these in on my machine.
 *  You need: Junit, Mockito, Log4J/SLF4J.
